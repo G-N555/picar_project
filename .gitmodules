@@ -1,0 +1,3 @@
+[submodule "SunFounder_PiCar-VSub"]
+	path = SunFounder_PiCar-VSub
+	url = https://github.com/sunfounder/SunFounder_PiCar-V.git
